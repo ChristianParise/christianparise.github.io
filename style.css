@@ -1,0 +1,43 @@
+#top_heading {
+    font-size: 18px;
+}
+
+body {
+    margin: 25px;
+    text-align: center;
+}
+
+.headers {
+    font-weight: bold;
+}
+
+ul,ol {
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+footer {
+    position: fixed;
+    bottom: 10px;
+}
+
+ul, ol {
+    text-align: left;
+    display: inline-block;
+}
+
+.home_sections {
+    margin-top: 50px;
+    background-color: grey;
+    border-radius: 20px;
+    padding: 25px;
+    font-size: 42px;
+}
+
+#styled th, #styled td {
+    border: 1px solid;
+  }
+
+  table {
+    margin: auto;
+  }
